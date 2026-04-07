@@ -18,7 +18,7 @@
 
   <!-- CapCut (não tem ícone oficial, usando genérico de vídeo) -->
   <img align="center" alt="CapCut" height="30" width="40"
-  src="https://www.shutterstock.com/pt/search/capcut-logo" />
+  src="https://www.shutterstock.com/pt/search/capcut-logo.png" />
 
   <!-- Premiere -->
   <img align="center" alt="Premiere" height="30" width="40"
