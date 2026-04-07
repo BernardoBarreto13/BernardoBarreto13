@@ -1,79 +1,66 @@
-<!-- HEADER -->
-<h1 align="center">Olá, eu sou Bernardo Barreto</h1>
-<p align="center">
-  Desenvolvedor focado em construir soluções simples, eficientes e bem estruturadas.
-</p>
+# 👋 Olá! Eu sou o Bernardo
 
-<hr>
+🎮 **Nome:** Bernardo  
+🎂 **Idade:** 13 anos  
+📚 **Formação:** Estudante  
 
-<!-- SOBRE -->
-<h2>Sobre mim</h2>
-<p>
-Sou um desenvolvedor interessado em <strong>Edição de vídeos e criação de jogos</strong>, com foco em criar projetos que priorizam
-qualidade de código, clareza e escalabilidade.
-</p>
+---
 
-<p>
-Atualmente estou trabalhando com <strong>[tecnologias]</strong> e buscando evoluir constantemente
-minhas habilidades técnicas e de arquitetura de software.
-</p>
+## 🚀 Formação Complementar
+- 🎮 Programador de Jogos  
+- 🎬 Editor de Vídeos  
 
-<hr>
+---
 
-<!-- SKILLS -->
-<h2>Tecnologias</h2>
+## 🛠️ Ferramentas e Tecnologias
 
-<p>
-<strong>Linguagens:</strong><br>
-[JavaScript] • [Python] • [Java] • [...]
-</p>
+<div style="display: inline_block"><br>
 
-<p>
-<strong>Ferramentas & Frameworks:</strong><br>
-[React] • [Node.js] • [Docker] • [...]
-</p>
+  <!-- CapCut (não tem ícone oficial, usando genérico de vídeo) -->
+  <img align="center" alt="CapCut" height="30" width="40"
+  src="https://cdn-icons-png.flaticon.com/512/1179/1179069.png" />
 
-<hr>
+  <!-- Premiere -->
+  <img align="center" alt="Premiere" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
 
-<!-- PROJETOS -->
-<h2>Projetos em Destaque</h2>
+  <!-- GameMaker -->
+  <img align="center" alt="GameMaker" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gamemakerstudio/gamemakerstudio-original.svg" />
 
-<ul>
-  <li>
-    <strong>Projeto 1</strong><br>
-    Breve descrição objetiva do projeto.
-  </li>
-  <br>
-  <li>
-    <strong>Projeto 2</strong><br>
-    Breve descrição objetiva do projeto.
-  </li>
-</ul>
+  <!-- Unity -->
+  <img align="center" alt="Unity" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 
-<hr>
+  <!-- C# -->
+  <img align="center" alt="Csharp" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
-<!-- ESTATISTICAS -->
-<h2>Estatísticas</h2>
+  <!-- Lua (Roblox) -->
+  <img align="center" alt="Lua" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact" height="150">
-</p>
+  <!-- HTML (extra para estética se quiser usar depois) -->
+  <img align="center" alt="HTML" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-<hr>
+</div>
 
-<!-- CONTATO -->
-<h2>Contato</h2>
+---
 
-<p>
-📧 Email: [seu-email]<br>
-💼 LinkedIn: [seu-linkedin]<br>
-🌐 Portfólio: [seu-site]
-</p>
+## 🎮 Engines que eu uso
+- 🕹️ GameMaker (GML)  
+- 🧩 Unity (C#)  
+- 🏗️ Construct (Linguagem de Eventos)  
+- ⚙️ Flowlab (Linguagem de Eventos)  
+- 🧙 RPG Maker (Linguagem de Eventos)  
+- 🌍 Roblox Studio (Lua)  
 
-<hr>
+---
 
-<!-- FRASE FINAL -->
-<p align="center">
-  <i>"Código limpo não é um luxo — é uma responsabilidade."</i>
-</p>
+## 💡 Sobre mim
+Sou apaixonado por criar jogos 🎮 e editar vídeos 🎬. Estou sempre aprendendo coisas novas e construindo meus próprios projetos!
+
+---
+
+⭐ *Obrigado por visitar meu perfil!*
