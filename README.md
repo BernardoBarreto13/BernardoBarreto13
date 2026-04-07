@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Olá, eu sou [Seu Nome]</h1>
+<h1 align="center">Olá, eu sou Bernardo Barreto</h1>
 <p align="center">
   Desenvolvedor focado em construir soluções simples, eficientes e bem estruturadas.
 </p>
@@ -9,7 +9,7 @@
 <!-- SOBRE -->
 <h2>Sobre mim</h2>
 <p>
-Sou um desenvolvedor interessado em <strong>[área principal]</strong>, com foco em criar projetos que priorizam
+Sou um desenvolvedor interessado em <strong>Edição de vídeos e criação de jogos</strong>, com foco em criar projetos que priorizam
 qualidade de código, clareza e escalabilidade.
 </p>
 
